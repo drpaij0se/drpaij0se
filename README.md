@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jose
 - 👀 I’m interested in ... Golang & Elixir
-- 🌱 I’m currently learning ... Rust
+- 🌱 I’m currently learning ... Cloud Computing
 
 <!---
 drpaij0se/drpaij0se is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
