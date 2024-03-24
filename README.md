@@ -2,7 +2,4 @@
 - 👀 I’m interested in ... Golang & Elixir
 - 🌱 I’m currently learning ... Cloud Computing
 
-<!---
-drpaij0se/drpaij0se is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![wakatime](https://wakatime.com/badge/user/1097b49d-dd37-4c40-992e-a2888f0b463a.svg)](https://wakatime.com/@1097b49d-dd37-4c40-992e-a2888f0b463a)
